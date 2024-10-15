@@ -1,2 +1,2 @@
 # Multiclass-Text-Classification-
-NLP project with python
+The project, titled Multi-Class Text Classification Model, aimed to develop and evaluate several text classification algorithms, including Naive Bayes, Support Vector Machines (SVM), and Hidden Markov Models (HMM), using the BBC Text Dataset, which contains articles categorized into genres such as news, entertainment, and sports. Key methodologies included Word2Vec embeddings for enhanced feature representation, allowing models to better understand contextual meanings. To address class imbalance in the dataset, SMOTE (Synthetic Minority Over-sampling Technique) was employed to generate synthetic samples of minority classes.
